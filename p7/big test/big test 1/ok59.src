@@ -1,0 +1,403 @@
+.data
+label5900:  .space  88
+label5901:  .space  44
+label5902:  .space  84
+label5903:  .space  108
+label5904:  .space  96
+label5905:  .space  72
+label5906:  .space  92
+label5907:  .space  28
+label5908:  .space  56
+label5909:  .space  48
+label5910:  .space  88
+label5911:  .space  80
+label5912:  .space  40
+label5913:  .space  72
+label5914:  .space  104
+label5915:  .space  60
+label5916:  .space  80
+label5917:  .space  36
+label5918:  .space  48
+label5919:  .space  112
+label5920:  .space  76
+label5921:  .space  68
+label5922:  .space  124
+label5923:  .space  112
+label5924:  .space  116
+label5925:  .space  20
+label5926:  .space  16
+label5927:  .space  8
+label5928:  .space  68
+label5929:  .space  76
+label5930:  .space  28
+label5931:  .space  96
+label5932:  .space  64
+label5933:  .space  64
+label5934:  .space  108
+label5935:  .space  88
+label5936:  .space  48
+label5937:  .space  56
+label5938:  .space  36
+label5939:  .space  24
+label5940:  .space  8
+label5941:  .space  72
+label5942:  .space  28
+label5943:  .space  64
+label5944:  .space  48
+label5945:  .space  52
+label5946:  .space  28
+label5947:  .space  80
+label5948:  .space  120
+label5949:  .space  32
+label5950:  .space  52
+label5951:  .space  32
+label5952:  .space  16
+label5953:  .space  64
+label5954:  .space  8
+label5955:  .space  68
+label5956:  .space  16
+label5957:  .space  52
+label5958:  .space  20
+label5959:  .space  92
+label5960:  .space  88
+label5961:  .space  108
+label5962:  .space  56
+label5963:  .space  76
+label5964:  .space  96
+label5965:  .space  60
+label5966:  .space  68
+label5967:  .space  8
+label5968:  .space  100
+label5969:  .space  16
+label5970:  .space  120
+label5971:  .space  116
+label5972:  .space  24
+label5973:  .space  116
+label5974:  .space  84
+label5975:  .space  112
+label5976:  .space  48
+label5977:  .space  104
+label5978:  .space  64
+label5979:  .space  44
+label5980:  .space  32
+label5981:  .space  40
+label5982:  .space  64
+label5983:  .space  96
+label5984:  .space  88
+label5985:  .space  124
+label5986:  .space  112
+label5987:  .space  52
+label5988:  .space  8
+label5989:  .space  120
+label5990:  .space  100
+label5991:  .space  120
+label5992:  .space  60
+label5993:  .space  92
+label5994:  .space  28
+label5995:  .space  104
+label5996:  .space  12
+label5997:  .space  100
+label5998:  .space  60
+label5999:  .space  116
+
+.text
+la $15, label9582
+j func8831
+func5900:
+la $17, label336
+j func8706
+func5901:
+la $4, label149
+j func6336
+func5902:
+la $9, label2968
+j func5329
+func5903:
+la $25, label9661
+j func6849
+func5904:
+la $5, label2921
+j func5131
+func5905:
+la $26, label7148
+j func1734
+func5906:
+la $7, label7012
+j func3732
+func5907:
+la $2, label6234
+j func1320
+func5908:
+la $7, label1544
+j func3624
+func5909:
+la $2, label2610
+j func3540
+func5910:
+la $16, label7750
+j func1014
+func5911:
+la $1, label8560
+j func7290
+func5912:
+la $1, label7864
+j func608
+func5913:
+la $23, label8779
+j func6495
+func5914:
+la $13, label7966
+j func1276
+func5915:
+la $17, label5452
+j func6123
+func5916:
+la $27, label7988
+j func2869
+func5917:
+la $16, label3602
+j func9980
+func5918:
+la $6, label9670
+j func2843
+func5919:
+la $10, label7000
+j func2145
+func5920:
+la $30, label5940
+j func1887
+func5921:
+la $7, label356
+j func191
+func5922:
+la $6, label6408
+j func7048
+func5923:
+la $5, label6415
+j func5888
+func5924:
+la $20, label9410
+j func1089
+func5925:
+la $20, label3056
+j func1695
+func5926:
+la $21, label8654
+j func9336
+func5927:
+la $27, label5226
+j func9037
+func5928:
+la $6, label4516
+j func2321
+func5929:
+la $18, label9732
+j func5759
+func5930:
+la $27, label5560
+j func1889
+func5931:
+la $5, label1390
+j func3214
+func5932:
+la $28, label8960
+j func339
+func5933:
+la $24, label8264
+j func2982
+func5934:
+la $3, label576
+j func6423
+func5935:
+la $29, label1158
+j func9383
+func5936:
+la $31, label8771
+j func2669
+func5937:
+la $31, label365
+j func1623
+func5938:
+la $20, label7081
+j func4046
+func5939:
+la $27, label8494
+j func5566
+func5940:
+la $25, label5575
+j func1780
+func5941:
+la $2, label188
+j func1928
+func5942:
+la $25, label350
+j func1901
+func5943:
+la $24, label688
+j func87
+func5944:
+la $18, label5228
+j func2796
+func5945:
+la $24, label1574
+j func2766
+func5946:
+la $25, label7580
+j func9176
+func5947:
+la $13, label5820
+j func7591
+func5948:
+la $20, label6716
+j func9515
+func5949:
+la $26, label1265
+j func4878
+func5950:
+la $31, label6740
+j func6517
+func5951:
+la $20, label5960
+j func7380
+func5952:
+la $7, label6820
+j func8278
+func5953:
+la $3, label3552
+j func6893
+func5954:
+la $18, label8346
+j func7575
+func5955:
+la $5, label1250
+j func3266
+func5956:
+la $21, label1967
+j func2289
+func5957:
+la $10, label6003
+j func1968
+func5958:
+la $28, label3520
+j func2884
+func5959:
+la $25, label1632
+j func215
+func5960:
+la $6, label6520
+j func1026
+func5961:
+la $9, label1216
+j func3803
+func5962:
+la $6, label7354
+j func4178
+func5963:
+la $9, label5230
+j func7591
+func5964:
+la $4, label720
+j func718
+func5965:
+la $25, label7016
+j func1589
+func5966:
+la $25, label8787
+j func1029
+func5967:
+la $14, label7356
+j func4103
+func5968:
+la $23, label8960
+j func3129
+func5969:
+la $18, label7544
+j func3249
+func5970:
+la $31, label9245
+j func4098
+func5971:
+la $1, label7346
+j func3821
+func5972:
+la $8, label8976
+j func1129
+func5973:
+la $14, label6760
+j func3158
+func5974:
+la $31, label3950
+j func5614
+func5975:
+la $28, label1141
+j func2813
+func5976:
+la $1, label7953
+j func4082
+func5977:
+la $6, label2602
+j func4311
+func5978:
+la $3, label7257
+j func1550
+func5979:
+la $23, label3488
+j func3468
+func5980:
+la $11, label9878
+j func6187
+func5981:
+la $18, label5680
+j func7114
+func5982:
+la $20, label138
+j func5943
+func5983:
+la $11, label7500
+j func1136
+func5984:
+la $13, label6074
+j func5254
+func5985:
+la $12, label7983
+j func1556
+func5986:
+la $27, label3312
+j func3695
+func5987:
+la $18, label4160
+j func4605
+func5988:
+la $19, label5905
+j func5963
+func5989:
+la $13, label2517
+j func458
+func5990:
+la $0, label1570
+j func8729
+func5991:
+la $3, label256
+j func4889
+func5992:
+la $3, label4830
+j func957
+func5993:
+la $13, label4136
+j func6112
+func5994:
+la $14, label8398
+j func9564
+func5995:
+la $25, label4870
+j func6328
+func5996:
+la $9, label6478
+j func7937
+func5997:
+la $7, label112
+j func141
+func5998:
+la $13, label9512
+j func860
+func5999:

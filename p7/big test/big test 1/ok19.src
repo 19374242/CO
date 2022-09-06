@@ -1,0 +1,403 @@
+.data
+label1900:  .space  28
+label1901:  .space  44
+label1902:  .space  56
+label1903:  .space  60
+label1904:  .space  120
+label1905:  .space  84
+label1906:  .space  60
+label1907:  .space  112
+label1908:  .space  120
+label1909:  .space  52
+label1910:  .space  8
+label1911:  .space  24
+label1912:  .space  52
+label1913:  .space  36
+label1914:  .space  76
+label1915:  .space  84
+label1916:  .space  92
+label1917:  .space  56
+label1918:  .space  124
+label1919:  .space  28
+label1920:  .space  20
+label1921:  .space  124
+label1922:  .space  8
+label1923:  .space  12
+label1924:  .space  40
+label1925:  .space  108
+label1926:  .space  76
+label1927:  .space  68
+label1928:  .space  116
+label1929:  .space  48
+label1930:  .space  80
+label1931:  .space  112
+label1932:  .space  28
+label1933:  .space  96
+label1934:  .space  16
+label1935:  .space  28
+label1936:  .space  120
+label1937:  .space  108
+label1938:  .space  32
+label1939:  .space  48
+label1940:  .space  12
+label1941:  .space  20
+label1942:  .space  32
+label1943:  .space  120
+label1944:  .space  36
+label1945:  .space  20
+label1946:  .space  64
+label1947:  .space  32
+label1948:  .space  112
+label1949:  .space  68
+label1950:  .space  116
+label1951:  .space  120
+label1952:  .space  32
+label1953:  .space  80
+label1954:  .space  24
+label1955:  .space  104
+label1956:  .space  100
+label1957:  .space  84
+label1958:  .space  108
+label1959:  .space  96
+label1960:  .space  100
+label1961:  .space  76
+label1962:  .space  116
+label1963:  .space  32
+label1964:  .space  36
+label1965:  .space  48
+label1966:  .space  116
+label1967:  .space  44
+label1968:  .space  32
+label1969:  .space  40
+label1970:  .space  48
+label1971:  .space  96
+label1972:  .space  64
+label1973:  .space  28
+label1974:  .space  120
+label1975:  .space  104
+label1976:  .space  120
+label1977:  .space  44
+label1978:  .space  76
+label1979:  .space  56
+label1980:  .space  92
+label1981:  .space  8
+label1982:  .space  84
+label1983:  .space  112
+label1984:  .space  60
+label1985:  .space  100
+label1986:  .space  72
+label1987:  .space  52
+label1988:  .space  80
+label1989:  .space  24
+label1990:  .space  80
+label1991:  .space  16
+label1992:  .space  100
+label1993:  .space  72
+label1994:  .space  76
+label1995:  .space  36
+label1996:  .space  28
+label1997:  .space  20
+label1998:  .space  96
+label1999:  .space  72
+
+.text
+la $10, label4035
+j func7254
+func1900:
+la $3, label1468
+j func1500
+func1901:
+la $25, label5900
+j func4534
+func1902:
+la $22, label5000
+j func1916
+func1903:
+la $21, label7705
+j func1924
+func1904:
+la $15, label1008
+j func9275
+func1905:
+la $23, label1429
+j func8116
+func1906:
+la $3, label3055
+j func9712
+func1907:
+la $13, label828
+j func5807
+func1908:
+la $24, label6464
+j func1381
+func1909:
+la $22, label8180
+j func560
+func1910:
+la $9, label1205
+j func5993
+func1911:
+la $9, label2882
+j func2249
+func1912:
+la $6, label9384
+j func5070
+func1913:
+la $15, label2728
+j func9967
+func1914:
+la $18, label3180
+j func2444
+func1915:
+la $4, label9310
+j func9961
+func1916:
+la $3, label5000
+j func9772
+func1917:
+la $26, label4433
+j func9813
+func1918:
+la $5, label6682
+j func5086
+func1919:
+la $22, label3900
+j func5187
+func1920:
+la $23, label1794
+j func340
+func1921:
+la $17, label9735
+j func3273
+func1922:
+la $12, label1682
+j func917
+func1923:
+la $24, label7134
+j func4957
+func1924:
+la $12, label5066
+j func7531
+func1925:
+la $13, label8245
+j func5390
+func1926:
+la $17, label7217
+j func9460
+func1927:
+la $3, label6344
+j func6491
+func1928:
+la $10, label6600
+j func7413
+func1929:
+la $6, label1054
+j func3562
+func1930:
+la $27, label4625
+j func4946
+func1931:
+la $17, label9812
+j func1523
+func1932:
+la $26, label6474
+j func5687
+func1933:
+la $22, label5336
+j func2482
+func1934:
+la $20, label8376
+j func4019
+func1935:
+la $26, label3166
+j func7401
+func1936:
+la $6, label4792
+j func6024
+func1937:
+la $22, label720
+j func4619
+func1938:
+la $5, label6592
+j func1756
+func1939:
+la $23, label4180
+j func1410
+func1940:
+la $23, label7204
+j func9915
+func1941:
+la $30, label948
+j func6234
+func1942:
+la $23, label7150
+j func1074
+func1943:
+la $1, label528
+j func2948
+func1944:
+la $21, label4960
+j func7781
+func1945:
+la $8, label5686
+j func4020
+func1946:
+la $19, label7955
+j func5978
+func1947:
+la $17, label2098
+j func5699
+func1948:
+la $9, label8488
+j func524
+func1949:
+la $13, label2468
+j func1118
+func1950:
+la $2, label3822
+j func2042
+func1951:
+la $1, label154
+j func9188
+func1952:
+la $29, label1736
+j func8933
+func1953:
+la $6, label188
+j func7596
+func1954:
+la $13, label1331
+j func4117
+func1955:
+la $9, label1544
+j func8189
+func1956:
+la $25, label9050
+j func2469
+func1957:
+la $11, label559
+j func2629
+func1958:
+la $29, label6602
+j func4050
+func1959:
+la $2, label6857
+j func3202
+func1960:
+la $7, label7472
+j func8672
+func1961:
+la $22, label7672
+j func4972
+func1962:
+la $27, label1200
+j func5621
+func1963:
+la $5, label4141
+j func3705
+func1964:
+la $15, label5752
+j func3644
+func1965:
+la $0, label3594
+j func8983
+func1966:
+la $15, label6864
+j func3331
+func1967:
+la $11, label1453
+j func326
+func1968:
+la $27, label3888
+j func8061
+func1969:
+la $1, label4800
+j func4027
+func1970:
+la $4, label481
+j func1809
+func1971:
+la $14, label6294
+j func863
+func1972:
+la $19, label9730
+j func1049
+func1973:
+la $19, label1305
+j func7725
+func1974:
+la $2, label9096
+j func3524
+func1975:
+la $6, label7785
+j func2455
+func1976:
+la $0, label7131
+j func37
+func1977:
+la $15, label3183
+j func3666
+func1978:
+la $17, label9144
+j func3106
+func1979:
+la $12, label2456
+j func2070
+func1980:
+la $12, label7547
+j func9093
+func1981:
+la $13, label3602
+j func1887
+func1982:
+la $28, label8986
+j func8446
+func1983:
+la $25, label1240
+j func6974
+func1984:
+la $0, label451
+j func479
+func1985:
+la $8, label5168
+j func3817
+func1986:
+la $10, label1186
+j func1183
+func1987:
+la $6, label140
+j func2454
+func1988:
+la $3, label8
+j func6824
+func1989:
+la $23, label38
+j func8292
+func1990:
+la $6, label7368
+j func8249
+func1991:
+la $13, label9375
+j func2291
+func1992:
+la $1, label8902
+j func7140
+func1993:
+la $19, label8352
+j func967
+func1994:
+la $23, label4196
+j func8513
+func1995:
+la $6, label3210
+j func3704
+func1996:
+la $1, label2080
+j func3465
+func1997:
+la $22, label8770
+j func7557
+func1998:
+la $8, label5616
+j func8796
+func1999:
